@@ -1,1 +1,1 @@
-# python_practice
+# This repository contains a collection of Python code snippets and projects that I've practiced and implemented as part of my learning journey. Each file represents a daily coding exercise, showcasing my progress and understanding of Python programming concepts.
