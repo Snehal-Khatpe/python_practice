@@ -41,3 +41,15 @@ elif size=="L":
   if extra_cheese=="Y":
     base_price+=1
   print(f"Your final bill is: ${base_price}")
+
+
+""" 
+Example Input
+L
+Y
+N
+
+Example Output
+Thank you for choosing Python Pizza Deliveries!
+Your final bill is: $28.
+"""
